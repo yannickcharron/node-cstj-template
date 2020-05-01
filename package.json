@@ -1,0 +1,23 @@
+{
+  "name": "node-cstj-template",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannickcharron/node-cstj-template.git"
+  },
+  "keywords": [
+    "node.js",
+    "cstj"
+  ],
+  "author": "Yannick Charron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannickcharron/node-cstj-template/issues"
+  },
+  "homepage": "https://github.com/yannickcharron/node-cstj-template#readme"
+}
